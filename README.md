@@ -1,16 +1,16 @@
-## Hi there 👋
+# Tang Zhao
 
-<!--
-**tzbs/tzbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master Student  
+Northwest Normal University  
+School of Artificial Intelligence and Computer Science  
 
-Here are some ideas to get you started:
+Email: 202421162202@nwnu.edu.cn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Dialogue Systems
+- Emotional Support Conversation (ESC)
+
+## About
+I am a graduate student focusing on natural language processing and dialogue systems.
